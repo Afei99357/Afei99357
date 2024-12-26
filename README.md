@@ -8,9 +8,9 @@
 
 I’m a passionate bioinformatics researcher with a strong foundation in data analysis, machine learning, and computational tools. My work focuses on addressing complex environmental and health challenges through innovative research and interdisciplinary collaboration. With expertise in bioinformatics, population genetics, and predictive modeling, I thrive on uncovering meaningful insights from diverse datasets and applying them to real-world problems.
 
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+| Rank | Languages  |
+|-----:|------------|
+|     1| Python     |
+|     2| R          |
+|     3| SQL        |
 
